@@ -1,0 +1,40 @@
+Another Proud Upload by CracksHash.com
+==================================================
+
+HOW TO INSTALL ?
+
+0. Disable your Windows defender or Antivirus. (Otherwise it'll cause problem during installation)
+1. Download the MS Office.
+2. Run "OInstall.exe" and select which MS Office you want to install.
+3. Click on "Install Office"
+4. Give it sometime and it'll install.
+5. Now, to activate the MS Office.. within OInstall, go to "Utilities" tab and click- "Office RETAIL >= VL" button
+6. It'll take sometime... have patience.
+7. Now click on "Activate Office"
+7. Wait for sometime.. it'll do its magic to activate office.
+8. Boom! Product Activated.. Enjoy now.
+
+-------------------------------------------------------------------------------------------
+
+You can also use activation script to acivate the MS Office
+1. Go to "Alternative Activator" and extract the zip file.
+2. Run the activator as admin. 
+3. Use it to activate your MS Office. 
+
+
+
+Note - The files are tested with Malwarebytes
+And for the setup you can check below
+
+
+
+Virus Total links -
+Setup - https://www.virustotal.com/gui/file/294ffcde9554ff9de23f9952e01046cb4f6b8051c2a8139d64d27300e8580507
+
+Hybrid-
+Setup - https://www.hybrid-analysis.com/sample/294ffcde9554ff9de23f9952e01046cb4f6b8051c2a8139d64d27300e8580507
+
+
+
+
+>>>>>>>>> CracksHash.com <<<<<<<<<<
